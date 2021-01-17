@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpAssignments\DevTeamsProjectRefactor\bin\Debug\DevTeamsProjectRefactor.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpAssignments\DevTeamsProjectRefactor\bin\Debug\DevTeamsProjectRefactor.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpAssignments\DevTeamsProjectRefactor\obj\Debug\Dev_Teams_Repo.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpAssignments\DevTeamsProjectRefactor\obj\Debug\Dev_Teams_Repo.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpAssignments\DevTeamsProjectRefactor\obj\Debug\DevTeamsProjectRefactor.dll
+C:\ElevenFiftyProjects\DotNetProjects\CSharpAssignments\DevTeamsProjectRefactor\obj\Debug\DevTeamsProjectRefactor.pdb
